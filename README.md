@@ -8,7 +8,6 @@ CSE student (AI/ML) who loves building things — usually solo, usually shipped 
 ⭐ **If you find any of this useful, a star on the repo goes a long way.**
 
 ### 🤖 AI / ML
-- **[RealTime-Weapon-Detection](https://github.com/arvind88765/RealTime-Weapon-Detection)** — custom-trained YOLOv3 model for real-time weapon detection in video streams
 - **[house_price_prediction_2025](https://github.com/arvind88765/house_price_prediction_2025)** — ML model predicting Bangalore house prices from location, size, and amenities
 - **[karaoke](https://github.com/arvind88765/karaoke)** — AI vocal-removal web app that generates instrumentals with waveform playback
 - **[ColorAssist](https://github.com/arvind88765/ColorAssist)** — translates HEX/RGB codes into readable color names, built for color-blind accessibility
