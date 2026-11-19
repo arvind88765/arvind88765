@@ -1,58 +1,64 @@
-# hey, i'm aravind 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=aravind&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=cse%20%E2%80%A2%20ai%2Fml%20%E2%80%A2%20hyderabad&descAlignY=58&descSize=18&descColor=aaaaaa"/>
 
-cse (ai/ml) student from hyderabad. i build things fast and actually ship them.
-civic-data platforms, ai tools, automation bots, full-stack apps -- whatever's interesting.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=i+build+things+that+actually+ship;ai+pipelines+%E2%80%A2+civic+data+%E2%80%A2+automation;if+there%27s+no+docs+%E2%80%94+i+find+my+own+way+in" alt="typing" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,flask,pytorch,docker,git&theme=dark&perline=10" />
+</div>
+
+<br/>
 
 ---
 
-### stack
+### what i build
 
-**languages** -- python, javascript, sql  
-**ai/ml** -- pytorch, scikit-learn, transformers, vector search, embeddings  
-**web** -- react, node.js, fastapi, flask  
-**infra** -- docker, ffmpeg, telegram bot api, rest apis  
-
----
-
-### what i actually build
-
-- **civic-data apps** -- public-interest tools that make raw data searchable and visual
-- **ai pipelines** -- vocal separation, price prediction, semantic search
-- **automation bots** -- alerts, media processing, scrapers, all headless
-- **full-stack projects** -- idea to deployed, usually within a week
+| | |
+|:---:|:---|
+| 🏛️ **civic-data apps** | public-interest tools — raw data made searchable and visual |
+| 🤖 **ai pipelines** | vocal separation · price prediction · semantic search |
+| ⚙️ **automation bots** | alerts · media processing · scrapers · all headless |
+| 🚀 **full-stack** | idea to deployed, usually within a week |
 
 ---
 
 ### reverse engineering
 
-i dig into how things actually work under the hood.
+`apk decompilation` &nbsp;·&nbsp; `traffic analysis` &nbsp;·&nbsp; `undocumented apis` &nbsp;·&nbsp; `auth flows` &nbsp;·&nbsp; `obfuscated code`
 
-- apk decompilation and traffic analysis
-- reconstructing undocumented apis from intercepted requests
-- bypassing geo-restrictions and figuring out auth flows
-- reading obfuscated code and mapping out backend logic
-
-basically: if there's no docs, i find my own way in.
+> if there's no docs, i find my own way in.
 
 ---
 
 ### stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvind88765&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind88765&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind88765&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"/>
+  &nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=arvind88765&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arvind88765&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arvind88765&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvind88765&theme=tokyo-night&hide_border=true&area=true&area_color=1e3a5f&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+</div>
+
+<br/>
 
 ---
 
-not all repos are public. the interesting stuff usually isn't.
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/arvind88765?label=follow&style=social)](https://github.com/arvind88765)
+*not all repos are public. the interesting stuff usually isn't.*
+
+<br/>
+
+[![follow](https://img.shields.io/github/followers/arvind88765?label=follow&style=social)](https://github.com/arvind88765)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
