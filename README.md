@@ -22,7 +22,7 @@
 
 | | |
 |:---:|:---|
-| 🏛️ **civic-data apps** | public-interest tools — raw data made searchable and visual |
+| 🏛️ **civic-data apps** | public-interest tools: raw data made searchable and visual |
 | 🤖 **ai pipelines** | vocal separation · price prediction · semantic search |
 | ⚙️ **automation bots** | alerts · media processing · scrapers · all headless |
 | 🚀 **full-stack** | idea to deployed, usually within a week |
