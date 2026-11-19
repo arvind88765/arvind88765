@@ -1,23 +1,58 @@
-# Hey, I'm Arvind 👋
+# hey, i'm aravind 👋
 
-CSE (AI/ML) student who just likes building stuff. I go from "random idea" to "actually deployed and working" pretty fast. Web apps, ML, automation, whatever's fun.
+cse (ai/ml) student from hyderabad. i build things fast and actually ship them.
+civic-data platforms, ai tools, automation bots, full-stack apps -- whatever's interesting.
 
-### 🔭 Currently building
-**[Food Safety Watch India](https://github.com/arvind88765/food-safety-watch-india)**. an interactive map + searchable ledger of food safety enforcement news (raids, seizures, closures) across Telangana & Andhra Pradesh, pulling fresh data every day. [Check it out →](https://food-safety-watch-india.vercel.app)
+---
 
-⭐ if this is useful to you (or you just vibe with it), a star means a lot. helps it reach more people.
+### stack
 
-### 🤖 AI / ML
-- **[house_price_prediction_2025](https://github.com/arvind88765/house_price_prediction_2025)**. ML model that predicts Bangalore house prices from location, size, amenities
-- **[karaoke](https://github.com/arvind88765/karaoke)**. AI vocal remover that turns songs into instrumentals, waveform playback included
-- **[ColorAssist](https://github.com/arvind88765/ColorAssist)**. turns HEX/RGB codes into names humans actually understand, built for color blind accessibility
+**languages** -- python, javascript, sql  
+**ai/ml** -- pytorch, scikit-learn, transformers, vector search, embeddings  
+**web** -- react, node.js, fastapi, flask  
+**infra** -- docker, ffmpeg, telegram bot api, rest apis  
 
-### 🔧 Automation & bots
-- **[ServiceNow ↔ Telegram bots](https://github.com/arvind88765/servicenow-incident-notification-bot)**. real time incident alerts, visitor management, keep alive pinging, all through Telegram
-- **[telegram_videoSample_generator](https://github.com/arvind88765/telegram_videoSample_generator)**. bot that trims/merges media and spits out video samples via ffmpeg
-- **[examtopics-scraper](https://github.com/arvind88765/examtopics-scraper)**. scrapes exam Q&A discussions into clean JSON/text
+---
 
-### 🌐 Web
-- **[linkdrop](https://github.com/arvind88765/linkdrop)**. instant private video rooms, no signup needed
+### what i actually build
 
-### 📍 Hyderabad, India
+- **civic-data apps** -- public-interest tools that make raw data searchable and visual
+- **ai pipelines** -- vocal separation, price prediction, semantic search
+- **automation bots** -- alerts, media processing, scrapers, all headless
+- **full-stack projects** -- idea to deployed, usually within a week
+
+---
+
+### reverse engineering
+
+i dig into how things actually work under the hood.
+
+- apk decompilation and traffic analysis
+- reconstructing undocumented apis from intercepted requests
+- bypassing geo-restrictions and figuring out auth flows
+- reading obfuscated code and mapping out backend logic
+
+basically: if there's no docs, i find my own way in.
+
+---
+
+### stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arvind88765&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind88765&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arvind88765&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arvind88765&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+not all repos are public. the interesting stuff usually isn't.
+
+[![GitHub followers](https://img.shields.io/github/followers/arvind88765?label=follow&style=social)](https://github.com/arvind88765)
