@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=aravind&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=cse%20%E2%80%A2%20ai%2Fml%20%E2%80%A2%20hyderabad&descAlignY=58&descSize=18&descColor=aaaaaa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=arvind&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=cse%20%E2%80%A2%20ai%2Fml%20%E2%80%A2%20hyderabad&descAlignY=58&descSize=18&descColor=aaaaaa"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=i+build+things+that+actually+ship;ai+pipelines+%E2%80%A2+civic+data+%E2%80%A2+automation;if+there%27s+no+docs+%E2%80%94+i+find+my+own+way+in" alt="typing" />
