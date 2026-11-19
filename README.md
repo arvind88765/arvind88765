@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=i+build+things+that+actually+ship;ai+pipelines+%E2%80%A2+civic+data+%E2%80%A2+automation;if+there%27s+no+docs+%E2%80%94+i+find+my+own+way+in" alt="typing" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arvind88765&style=flat-square&color=58A6FF&label=profile+views" />
+</div>
+
 <br/>
 
 <div align="center">
@@ -36,15 +40,25 @@
 ### stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind88765&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arvind88765&theme=tokyonight" width="31%"/>
   &nbsp;
-  <img height="165" src="https://streak-stats.demolab.com?user=arvind88765&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arvind88765&theme=tokyonight&utcOffset=5.5" width="31%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arvind88765&theme=tokyonight" width="31%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvind88765&theme=tokyo-night&hide_border=true&area=true&area_color=1e3a5f&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arvind88765&theme=tokyonight" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arvind88765&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind88765&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="36%"/>
 </div>
 
 <br/>
